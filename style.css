@@ -134,7 +134,7 @@
   font-size: larger;
 }
 
-@media (width < 800px) {
+@media (width < 920px) {
   .container {
     display: flex;
     flex-direction: column;
